@@ -1,0 +1,228 @@
+
+ [
+    {
+      "name": "Farmhouse",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKmQnJw75FTcMb9pC0FOoFanPHwJZnf24oA&usqp=CAU",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom"
+    },
+  {
+      "name": "Mexican Green Wave",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 100,
+          "medium": 250,
+          "large": 300
+        }
+      ],
+      "category": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnx60qpdSsKPmW9gE7NyOHt5eXTLjCutmrhg&usqp=CAU",
+      "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno"
+    },
+  {
+      "name": "Veggie Paradise",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 150,
+          "medium": 250,
+          "large": 350
+        }
+      ],
+      "category": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaNnUePmSXoVe1qPWzMwzyjzwCccypsTYLA&usqp=CAU",
+      "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+    },
+  {
+      "name": "Veg Extravaganza",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 450
+        }
+      ],
+      "category": "veg",
+      "image": "https://assets.box8.co.in/default-picture-shape/web/product/851",
+      "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese"
+    },
+  {
+      "name": "Cheese n Tomato",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 280,
+          "medium": 380,
+          "large": 480
+        }
+      ],
+      "category": "veg",
+      "image": "https://assets.box8.co.in/default-picture-shape/web/product/854",
+      "description": "A delectable combination of cheese and juicy tomato"
+    },
+  {
+      "name": "Kadhai Paneer",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 180,
+          "medium": 280,
+          "large": 380
+        }
+      ],
+      "category": "veg",
+      "image": "https://assets.box8.co.in/default-picture-shape/web/product/911",
+      "description": "Flavorful twist of spicy makhani sauce topped with paneer & capsicum"
+    },
+  {
+      "name": "Margherita",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 280,
+          "medium": 380,
+          "large": 480
+        }
+      ],
+      "category": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT983ZnD6LrnM01s_q4AIji5BZRFpjatCLbFQ&usqp=CAU",
+      "description": "Classic delight with 100% real mozzarella cheese"
+    },
+  {
+      "name": "Double Cheese Margherita",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 290,
+          "medium": 350,
+          "large": 580
+        }
+      ],
+      "category": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKJOoVMJ0mWkNQG_kx2Kif64-7NTmumMeeA&usqp=CAU",
+      "description": "A classic delight loaded with extra 100% real mozzarella cheese"
+    },
+  {
+      "name": "Chicken Golden Delight",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 380,
+          "medium": 480,
+          "large": 580
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDaKGxevxwEMEvd8a_Ul8W_fRtacnwG-nrag&usqp=CAU",
+      "description": "Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+    },
+  {
+      "name": "Chicken Fiesta",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 300,
+          "medium": 450,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDykkrAlx4NX-rq0J7QEIY0WziPuJ8vvoKzA&usqp=CAU",
+      "description": "Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta"
+    },
+  {
+      "name": "Chicken Sausage",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 320,
+          "medium": 440,
+          "large": 520
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgZy8f2uEDBuMvWzilganxLDdlLB_8XJn0Q&usqp=CAU",
+      "description": "American classic! Spicy, herbed chicken sausage on pizza"
+    },
+  {
+      "name": "Non Veg Supreme",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 340,
+          "large": 580
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgZy8f2uEDBuMvWzilganxLDdlLB_8XJn0Q&usqp=CAU",
+      "description": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers"
+    },
+  {
+      "name": "Chicken Pepperoni",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 280,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBcqTqFPHYNlhbSZwzmTMzyxU1NqMRAFZw&usqp=CAU",
+      "description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+    },
+  {
+      "name": "Chicken Dominator",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 450
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YswZDvXy9L7xR2tkA1T1JloeJU2FMhyQ5Q&usqp=CAU",
+      "description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers"
+    },
+  {
+      "name": "Indi Chicken Tikka",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhyzGTuN8D5L_BB6OG63a2urhxl4rF3_yzA&usqp=CAU",
+      "description": "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo"
+    },
+  {
+      "name": "Indi Chicken Tikka",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhyzGTuN8D5L_BB6OG63a2urhxl4rF3_yzA&usqp=CAU",
+      "description": "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo"
+    }
+  ]
+  

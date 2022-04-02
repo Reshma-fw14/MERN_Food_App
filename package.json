@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server":"nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,7 @@
   "homepage": "https://github.com/Reshma-fw14/MERN_Food_App#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "mongoose": "^6.2.9",
     "nodemon": "^2.0.15"
   }
 }
